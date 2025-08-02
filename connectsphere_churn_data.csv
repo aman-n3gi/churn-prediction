@@ -1,0 +1,21 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,ContractLength,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn,DataUsage,CallDuration
+7590-VHVEG,Female,SeniorCitizen,Yes,No,1,No,No phone service,DSL,No,Yes,No,No,No,No,12,Yes,Electronic check,29.85,29.85,No,40,43
+5575-GNVDE,Male,SeniorCitizen,No,No,34,Yes,No,DSL,Yes,No,Yes,No,No,No,3,No,Mailed check,56.95,1889.5,No,67,32
+3668-QPYBK,Male,SeniorCitizen,No,No,2,Yes,No,DSL,Yes,Yes,No,No,No,No,4,Yes,Mailed check,53.85,108.15,Yes,43,43
+7795-CFOCW,Male,SeniorCitizen,No,No,45,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,2,No,Bank transfer (automatic),42.3,1840.75,No,67,12
+9237-HQITU,Female,SeniorCitizen,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,12,Yes,Electronic check,70.7,151.65,Yes,121,34
+9305-CDSKC,Female,SeniorCitizen,No,No,8,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,5,Yes,Electronic check,99.65,820.5,Yes,46,55
+1452-KIOVK,Male,SeniorCitizen,No,Yes,22,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,6,Yes,Credit card (automatic),89.1,1949.4,No,234,43
+6713-OKOMC,Female,SeniorCitizen,No,No,10,No,No phone service,DSL,Yes,No,No,No,No,No,2,No,Mailed check,29.75,301.9,No,32,21
+7892-POOKP,Female,SeniorCitizen,Yes,No,28,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,3,Yes,Electronic check,104.8,3046.05,Yes,65,12
+6388-TABGU,Male,SeniorCitizen,No,Yes,62,Yes,No,DSL,Yes,Yes,No,No,No,No,6,No,Bank transfer (automatic),56.15,3487.95,No,675,12
+9763-GRSKD,Male,SeniorCitizen,Yes,Yes,13,Yes,No,DSL,Yes,No,No,No,No,No,3,Yes,Mailed check,49.95,587.45,No,35,32
+7469-LKBCI,Male,SeniorCitizen,No,No,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,12,No,Credit card (automatic),18.95,326.8,No,78,31
+8091-TTVAX,Male,SeniorCitizen,Yes,No,58,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,3,No,Credit card (automatic),100.35,5681.1,No,89,21
+0280-XJGEX,Male,SeniorCitizen,No,No,49,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,6,Yes,Bank transfer (automatic),103.7,5036.3,Yes,367,32
+5129-JLPIS,Male,SeniorCitizen,No,No,25,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,2,Yes,Electronic check,105.5,2686.05,No,234,21
+3655-SNQYZ,Female,SeniorCitizen,Yes,Yes,69,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,4,No,Credit card (automatic),113.25,7895.15,No,864,35
+8191-XWSZG,Female,SeniorCitizen,No,No,52,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,6,No,Mailed check,20.65,1022.95,No,21,25
+9959-WOFKT,Male,SeniorCitizen,No,Yes,71,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,3,No,Bank transfer (automatic),106.7,7382.25,No,454,16
+4190-MFLUW,Female,SeniorCitizen,Yes,Yes,10,Yes,No,DSL,No,No,Yes,Yes,No,No,12,No,Credit card (automatic),55.2,528.35,Yes,231,32
+4183-MYFRB,Female,SeniorCitizen,No,No,21,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,6,Yes,Electronic check,90.05,1862.9,No,343,36
